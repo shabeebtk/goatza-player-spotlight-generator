@@ -1,0 +1,1 @@
+# goatza-player-spotlight-generator
